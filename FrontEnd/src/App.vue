@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Task Tracking App"/>
+  <HelloWorld msg="Welcome to Task Tracking App"/>
 </template>
 
 <script>
